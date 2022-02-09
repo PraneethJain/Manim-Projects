@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/prane/documents/github/manim-projects/waves/media/videos/waves/1080p60/partial_movie_files/communication/450974505_863572975_3609017185.mp4'
+file 'file:C:/Users/prane/documents/github/manim-projects/waves/media/videos/waves/1080p60/partial_movie_files/communication/34786186_398514950_3777612369.mp4'
+file 'file:C:/Users/prane/documents/github/manim-projects/waves/media/videos/waves/1080p60/partial_movie_files/communication/34786186_1847652729_887198758.mp4'
+file 'file:C:/Users/prane/documents/github/manim-projects/waves/media/videos/waves/1080p60/partial_movie_files/communication/34786186_2148686299_912410059.mp4'
+file 'file:C:/Users/prane/documents/github/manim-projects/waves/media/videos/waves/1080p60/partial_movie_files/communication/34786186_2495974092_2673787958.mp4'
+file 'file:C:/Users/prane/documents/github/manim-projects/waves/media/videos/waves/1080p60/partial_movie_files/communication/34786186_398514950_714515731.mp4'
+file 'file:C:/Users/prane/documents/github/manim-projects/waves/media/videos/waves/1080p60/partial_movie_files/communication/34786186_954447758_2085837267.mp4'
+file 'file:C:/Users/prane/documents/github/manim-projects/waves/media/videos/waves/1080p60/partial_movie_files/communication/34786186_398514950_2679009650.mp4'
